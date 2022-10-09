@@ -1,0 +1,2 @@
+Took states data from https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
+Converted the data to a topoJson here: https://mapshaper.org/
